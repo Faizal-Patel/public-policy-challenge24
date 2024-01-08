@@ -1,0 +1,56 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+
+# icons
+/public
+
+# fb config
+/config
+
+# idea
+/.idea
+
+# json
+/package-lock.json
+/package.json
+/tsconfig.json
+/.eslintrc.json
+
+# configs
+/next-env.d.ts
+/next.config.js
+/postcss.config.js
+/tailwind.config.ts
+
+
